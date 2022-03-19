@@ -78,7 +78,7 @@ let traumatologia = [
     medicoEspecialista: "Dr. Chapatin",
     nombreDelPaciente: "Cristina Guzmán",
     rutDelPaciente: "12.222.222-k",
-    prevision: "FONASA",
+    prevision: "ISAPRE",
     tipoDeExamen: "Dental",
   },
 ];
@@ -112,7 +112,7 @@ let dental = [
     medicoEspecialista: "Dr. Chapatin",
     nombreDelPaciente: "Cristina Guzmán",
     rutDelPaciente: "12.222.222-k",
-    prevision: "FONASA",
+    prevision: "ISAPRE",
     tipoDeExamen: "Dental",
   },
   {
